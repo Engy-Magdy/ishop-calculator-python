@@ -1,6 +1,5 @@
 #Greeting to inshop calculator
 print("""
-      
       ******Welcome to ishop calculator******
       """)
 #Saving the names of items and their prices
